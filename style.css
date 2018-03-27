@@ -8,12 +8,12 @@ a{
 }
 
 #titlebar{
-  border-bottom: 3px solid gray;
-  background-color: #4d6c8b;
+  border-bottom: 3px solid #d30027;
+
   margin: 0px;
 }
 #menubar{
-  border-right:3px solid gray;
+  border-right:3px solid #d30027;
 }
 #context{
   text-align: center;
@@ -21,4 +21,11 @@ a{
 #grid{
   display : grid;
   grid-template-columns: 150px 1fr;
+}
+
+#grid2{
+  padding : 20px;
+  border-bottom : 3px solid #d30027;
+  display : grid;
+  grid-template-columns: auto auto auto auto auto auto auto auto
 }
