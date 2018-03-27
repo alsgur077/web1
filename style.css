@@ -27,5 +27,4 @@ a{
   padding : 20px;
   border-bottom : 3px solid #d30027;
   display : grid;
-  grid-template-columns: 150px 150px 150px 150px 150px 150px 150px 150px
-}
+  grid-template-columns: auto auto auto auto auto auto auto auto
